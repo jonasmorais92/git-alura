@@ -1,2 +1,2 @@
-# git-alura
-Curso da Alura de git/github. Controle de versão e compartilhamento
+
+```Curso da Alura de git/github. Controle de versão e compartilhamento```
